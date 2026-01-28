@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Aisyiyah SmartLife Updates</title>
+    
+    <item>
+      <title>Versi 2.0.0</title>
+      
+      <description>
+        Fitur baru:
+        - Tampilan dashboard baru
+        - Perbaikan bug login
+      </description>
+      
+      <pubDate>Wed, 28 Jan 2026 15:00:00 +0000</pubDate>
+      
+      <enclosure url="https://github.com/NFRamz/UpdateApp_AisyiyahSmartLife/releases/download/v1.0.1/app-release.apk"
+                 sparkle:version="1.0.1"
+                 sparkle:os="android" />
+    </item>
+
+  </channel>
+</rss>
