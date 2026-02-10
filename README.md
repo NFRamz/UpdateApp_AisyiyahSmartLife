@@ -97,6 +97,6 @@ Aplikasi ini mengambil data islami dari sumber berikut:
 ## 📸 Preview
 
 [![Aisyiyah Smartlife Video]](https://youtu.be/GSf9P0pX-aI)
-*(Klik gambar untuk memutar video)*
+*(Klik teks link untuk memutar video)*
 
 ---
