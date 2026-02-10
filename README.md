@@ -4,7 +4,7 @@
 ![Platform](https://img.shields.io/badge/platform-flutter-blue.svg)
 ![Access](https://img.shields.io/badge/access-private-red.svg)
 
-> **⚠️ PERINGATAN KERAHASIAAN**
+> **⚠️ PERINGATAN KERAHASIAAN** 
 >
 > Repositori ini hanya berisi aplikasi **Aisyiyah Smartlife** yang digunakan untuk memberikan update app kepada pengguna sehingga dapat melakukan pembaruan via inApp(pengunduhan&perbaruan langsung didalam aplikasi).Hal ini bertujuan agar para pengguna tidak ketinggalan dengan fitur terbaru, sembari aplikasi sedang proses pengajuan untuk dipublish ke playstore. Source code project app ini bersifat private sehingga tidak diperuntukkan untuk publik.
 
