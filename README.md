@@ -96,7 +96,14 @@ Aplikasi ini mengambil data islami dari sumber berikut:
 
 ## 📸 Preview
 
-[![Aisyiyah Smartlife Video]](https://youtu.be/GSf9P0pX-aI)
-*(Klik teks link untuk memutar video)*
+[![Aisyiyah Smartlife Promo](https://img.youtube.com/vi/GSf9P0pX-aI/maxresdefault.jpg)](https://www.youtube.com/watch?v=GSf9P0pX-aI)
+*(Klik gambar untuk memutar video)*
 
+
+### 🖼️ Galeri Uji Coba (Testing)
+Berikut adalah dokumentasi pertemuan dan proses pengujian aplikasi:
+
+| Pertemuan Awal untuk Uji Coba Aplikasi kepada para Pimpinan dan jajarannya |
+| :---: | :---: | :---: |
+| ![Pertemuan 1](foto/1.jpg) | ![Diskusi](foto/2.jpg) | ![Testing User](foto/3.jpg) |
 ---
