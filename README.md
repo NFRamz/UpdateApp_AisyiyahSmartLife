@@ -94,27 +94,9 @@ Aplikasi ini mengambil data islami dari sumber berikut:
 
 ---
 
-## 📸 Dokumentasi & Preview
+## 📸 Preview
 
-### Video Promosi
-Tonton video pengenalan aplikasi di bawah ini:
-
-[![Aisyiyah Smartlife Promo](https://img.youtube.com/vi/ID_VIDEO_YOUTUBE_DISINI/0.jpg)](https://www.youtube.com/watch?v=LINK_VIDEO_YOUTUBE_DISINI)
+[![Aisyiyah Smartlife Promo](https://img.youtube.com/vi/GSf9P0pX-al/0.jpg)](https://youtu.be/GSf9P0pX-aI)
 *(Klik gambar untuk memutar video)*
 
-### Galeri Uji Coba (Testing)
-Dokumentasi pertemuan dan uji coba aplikasi:
-
-| Login & Home | Fitur Kegiatan | Fitur Quran |
-| :---: | :---: | :---: |
-| ![Testing 1](Dokumentasi/test1.jpg) | ![Testing 2](Dokumentasi/test2.jpg) | ![Testing 3](Dokumentasi/test3.png) |
-
-| Manajemen UMKM | Rekap & Admin |
-| :---: | :---: |
-| ![Testing 4](Dokumentasi/test4.jpg) | ![Testing 5](Dokumentasi/test5.png) |
-
 ---
-
-## 📞 Kontak Pengembang
-
-Jika ada pertanyaan teknis mengenai API atau akses database, silakan hubungi tim IT Internal.
