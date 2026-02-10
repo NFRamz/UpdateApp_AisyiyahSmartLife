@@ -108,13 +108,13 @@ Aplikasi ini mengambil data islami dari sumber berikut:
 ![Aladhan](https://img.shields.io/badge/API-Aladhan-4CAF50?style=flat)
 ---
 
-## 📸 Preview
+## 📸 Preview video
 *(Klik gambar untuk memutar video)*
 [![Aisyiyah Smartlife Promo](https://img.youtube.com/vi/GSf9P0pX-aI/maxresdefault.jpg)](https://www.youtube.com/watch?v=GSf9P0pX-aI)
 
 
 
-### 🖼️ Galeri Uji Coba (Testing)
+### 🖼️ Foto (Testing)
 Berikut adalah dokumentasi pertemuan dan proses pengujian aplikasi:
 
 | Sesi Pembukaan | Diskusi&sesi tanya terkait App | Uji Coba User |
