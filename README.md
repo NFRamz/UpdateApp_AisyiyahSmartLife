@@ -6,7 +6,7 @@
 
 > **⚠️ PERINGATAN KERAHASIAAN**
 >
-> Repositori ini hanya berisi aplikasi **Aisyiyah Smartlife**, dikarenakan project app ini bersifat private sehingga source code tidak diperuntukkan untuk publik.
+> Repositori ini hanya berisi aplikasi **Aisyiyah Smartlife** yang digunakan untuk memberikan update app kepada pengguna sehingga dapat melakukan pembaruan via inApp(pengunduhan&perbaruan langsung didalam aplikasi).Hal ini bertujuan agar para pengguna tidak ketinggalan dengan fitur terbaru, sembari aplikasi sedang proses pengajuan untuk dipublish ke playstore. Source code project app ini bersifat private sehingga tidak diperuntukkan untuk publik.
 
 ---
 
