@@ -1,1 +1,143 @@
-# UpdateApp_AisyiyahSmartLife
+# Aisyiyah Smartlife (Private Repository)
+
+![Project Status](https://img.shields.io/badge/status-active-success.svg)
+![Platform](https://img.shields.io/badge/platform-flutter-blue.svg)
+![Access](https://img.shields.io/badge/access-private-red.svg)
+
+> **⚠️ PERINGATAN KERAHASIAAN**
+>
+> Repositori ini berisi kode sumber aplikasi **Aisyiyah Smartlife**. Dilarang keras menyalin, mendistribusikan, atau mempublikasikan kode ini tanpa izin dari pengelola proyek.
+
+---
+
+## 📱 Tentang Aisyiyah Smartlife
+
+**Aisyiyah Smartlife** adalah aplikasi *mobile* berbasis Flutter yang dirancang untuk mendukung ekosistem digital warga Aisyiyah. Aplikasi ini **hadir untuk semua tipe pengguna**, menyediakan fitur akses Tamu (Guest) untuk publik dan Login khusus untuk anggota terdaftar.
+
+Tujuan utama aplikasi ini adalah mempermudah manajemen kegiatan, transparansi organisasi dari tingkat Ranting hingga Wilayah, serta menyediakan fitur ibadah harian yang lengkap.
+
+---
+
+## 👥 Hak Akses & Tipe Pengguna
+
+Aplikasi ini memiliki 6 tipe pengguna dengan hierarki dan hak akses yang berbeda:
+
+| Role | Deskripsi & Hak Akses |
+| :--- | :--- |
+| **1. Wilayah** | • Kelola kegiatan tingkat Wilayah<br>• Monitoring aktivitas seluruh bawahan (Daerah/Cabang/Ranting)<br>• Melihat daftar & total Daerah, Cabang, Ranting<br>• Kirim notifikasi ke seluruh bawahan<br>• Export rekap kegiatan ke Excel<br>• Kelola Donasi tingkat Wilayah |
+| **2. Daerah** | • Kelola kegiatan tingkat Daerah<br>• Monitoring aktivitas & total Cabang/Ranting<br>• Kirim notifikasi ke bawahan<br>• Export rekap kegiatan ke Excel<br>• Kelola Donasi tingkat Daerah |
+| **3. Cabang** | • Kelola kegiatan tingkat Cabang<br>• Monitoring aktivitas & total Ranting<br>• Kirim notifikasi ke bawahan<br>• Export rekap kegiatan ke Excel<br>• Kelola Donasi tingkat Cabang<br>• **Kelola UMKM tingkat Cabang** |
+| **4. Ranting** | • Kelola kegiatan tingkat Ranting<br>• Monitoring aktivitas bawahan<br>• Kirim notifikasi ke bawahan<br>• Export rekap kegiatan ke Excel<br>• Kelola Donasi tingkat Ranting<br>• **Kelola UMKM tingkat Ranting** |
+| **5. Anggota** | • Melihat kegiatan, UMKM, dan Donasi<br>• Mengakses seluruh layanan tersedia sesuai lokasi terdaftar |
+| **6. Tamu** | • Akses fitur publik terbatas (Non-Login) |
+
+---
+
+## 🌟 Fitur Unggulan
+
+### 📅 1. Manajemen Jadwal Kegiatan
+Fitur transparansi agenda dari tingkat Ranting hingga Wilayah.
+* **Hierarki Monitoring:** Memantau kegiatan bawahan atau atasan untuk transparansi yang lebih baik.
+* **Filter Cerdas:** Filter kegiatan sesuai tingkatan dan cakupan wilayah.
+* **Custom Alarm:** Pengingat kegiatan yang waktunya dapat disesuaikan pengguna.
+* **Integrasi Peta:** Lokasi kegiatan terhubung langsung dengan Google Maps.
+* **Export Data:** Fitur unduh rekap kegiatan ke Excel (khusus Role pengurus).
+
+### 📖 2. My Quran & Fitur Islami
+Pendamping ibadah harian yang lengkap dan akurat.
+
+#### **a. Baca Quran**
+* Teks dan audio kata per kata (word-by-word).
+* Audio playback per ayat.
+* Kustomisasi ukuran font Arab dan Latin.
+* Footnote (catatan kaki) pada setiap ayat.
+
+#### **b. Quran Audio (Online & Offline)**
+Mendukung *background playback* dengan pilihan Qari ternama:
+* *Abdul Baset Abdul Samad (Murattal, Mujawwad)*
+* *Mohamed Siddiq al-Minshawi (Murattal, Mujawwad)*
+* *Abu Bakr al-Shatri, Hani ar-Rifai, Mahmoud Khalil Al-Husary*
+* *Mishari Rashid al-Afasy, Abdur-Rahman as-Sudais, Sa’ud ash-Shuraym*
+
+#### **c. Ensiklopedi Hadist**
+* Status kesahihan (Shahih, Hasan, dll).
+* Teks Arab, Terjemahan, dan Syarah (Penjelasan).
+* Pelajaran dan faedah di setiap hadist.
+* Kategori tematik (Klasifikasi Utama & Sub-kategori).
+
+#### **d. Kalender & Jadwal Sholat**
+* **Dual Date System:** Penanggalan Masehi & Hijriyah.
+* **Penanda:** Puasa Sunnah & Hari Besar Islam.
+* **Jadwal Sholat:** Realtime GPS (Offline support).
+* **4 Tipe Jadwal:** Pagi, Siang & Sore, Malam, Qiyamul Lail.
+* **Asmaul Husna:** Teks, terjemahan, dan pencarian.
+
+### 🛍️ 3. UMKM & Donasi
+* **Direktori UMKM:** Daftar unit usaha lengkap (Deskripsi, Kontak, Lokasi). Pengguna bisa langsung menghubungi penjual.
+* **Donasi Terpercaya:** Informasi program sosial transparan dengan detail rekening bank pengurus yang jelas.
+
+---
+
+## 🛠️ Tech Stack & API
+
+Aplikasi ini dibangun menggunakan teknologi modern:
+
+### **Core**
+* **Frontend:** [Flutter](https://flutter.dev/)
+* **Backend:** [Supabase](https://supabase.com/) & [Firebase](https://firebase.google.com/)
+
+### **3rd Party APIs**
+Aplikasi ini mengambil data islami dari sumber terpercaya:
+* `quran.com` (Data Al-Quran)
+* `hadeeth.com` & `https://hadeethenc.com/` (Ensiklopedia Hadist)
+* `aladhan.com` (Jadwal Sholat & Kalender)
+
+---
+
+## 📸 Dokumentasi & Preview
+
+### Video Promosi
+Tonton video pengenalan aplikasi di bawah ini:
+
+[![Aisyiyah Smartlife Promo](https://img.youtube.com/vi/ID_VIDEO_YOUTUBE_DISINI/0.jpg)](https://www.youtube.com/watch?v=LINK_VIDEO_YOUTUBE_DISINI)
+*(Klik gambar untuk memutar video)*
+
+### Galeri Uji Coba (Testing)
+Dokumentasi pertemuan dan uji coba aplikasi:
+
+| Login & Home | Fitur Kegiatan | Fitur Quran |
+| :---: | :---: | :---: |
+| ![Testing 1](Dokumentasi/test1.jpg) | ![Testing 2](Dokumentasi/test2.jpg) | ![Testing 3](Dokumentasi/test3.png) |
+
+| Manajemen UMKM | Rekap & Admin |
+| :---: | :---: |
+| ![Testing 4](Dokumentasi/test4.jpg) | ![Testing 5](Dokumentasi/test5.png) |
+
+---
+
+## 🚀 Cara Menjalankan Project
+
+1.  **Clone Repository**
+    ```bash
+    git clone [https://github.com/username/aisyiyah-smartlife.git](https://github.com/username/aisyiyah-smartlife.git)
+    cd aisyiyah-smartlife
+    ```
+
+2.  **Install Dependencies**
+    ```bash
+    flutter pub get
+    ```
+
+3.  **Setup Environment**
+    Buat file `.env` dan isi konfigurasi Supabase/Firebase serta API Key yang diperlukan.
+
+4.  **Run App**
+    ```bash
+    flutter run
+    ```
+
+---
+
+## 📞 Kontak Pengembang
+
+Jika ada pertanyaan teknis mengenai API atau akses database, silakan hubungi tim IT Internal.
