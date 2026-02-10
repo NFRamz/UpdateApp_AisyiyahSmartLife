@@ -10,7 +10,7 @@
 
 ---
 
-## 📱 Tentang Aisyiyah Smartlife
+## A. Tentang Aisyiyah Smartlife
 
 **Aisyiyah Smartlife** adalah aplikasi *mobile* berbasis Flutter yang dirancang untuk mendukung ekosistem digital para anggota Aisyiyah. Aplikasi ini **hadir untuk semua tipe pengguna**, menyediakan fitur akses Tamu (Guest) untuk publik dan Login khusus untuk anggota yang telah terdaftar emailnya dikantor PD Aisyiyah Pamekasan.
 
@@ -18,7 +18,7 @@ Tujuan utama aplikasi ini adalah mempermudah manajemen kegiatan,donasi,umkm, dan
 
 ---
 
-## 👥 Hak Akses & Tipe Pengguna
+## B. Hak Akses & Tipe Pengguna
 
 Aplikasi ini memiliki 6 tipe pengguna dengan hierarki dan hak akses yang berbeda:
 
@@ -33,9 +33,9 @@ Aplikasi ini memiliki 6 tipe pengguna dengan hierarki dan hak akses yang berbeda
 
 ---
 
-## 🌟 Fitur Unggulan
+## C. Fitur Unggulan
 
-### 📅 1. Manajemen Jadwal Kegiatan
+### a. Manajemen Jadwal Kegiatan
 Fitur transparansi agenda dari tingkat Ranting hingga Wilayah.
 * **Hierarki Monitoring:** Memantau kegiatan bawahan atau atasan untuk transparansi yang lebih baik.
 * **Filter Cerdas:** Filter kegiatan sesuai tingkatan dan cakupan wilayah.
@@ -43,42 +43,42 @@ Fitur transparansi agenda dari tingkat Ranting hingga Wilayah.
 * **Integrasi Peta:** Lokasi kegiatan terhubung langsung dengan Google Maps.
 * **Export Data:** Fitur unduh rekap kegiatan ke Excel (khusus Role tertentu).
 
-### 📖 2. My Quran & Fitur Islami
+### b. My Quran & Fitur Islami
 Pendamping ibadah harian yang lengkap.
 
-#### **a. Baca Quran**
+#### **1. Baca Quran**
 * Teks dan audio kata per kata (word-by-word).
 * Audio playback per ayat.
 * Kustomisasi ukuran font Arab dan Latin.
 * Footnote (catatan kaki) pada setiap ayat.
 
-#### **b. Quran Audio (Online & Offline)**
+#### **2. Quran Audio (Online & Offline)**
 Mendukung *background playback* dengan pilihan Qari ternama:
 * *Abdul Baset Abdul Samad (Murattal, Mujawwad)*
 * *Mohamed Siddiq al-Minshawi (Murattal, Mujawwad)*
 * *Abu Bakr al-Shatri, Hani ar-Rifai, Mahmoud Khalil Al-Husary*
 * *Mishari Rashid al-Afasy, Abdur-Rahman as-Sudais, Sa’ud ash-Shuraym*
 
-#### **c. Ensiklopedi Hadist**
+#### **3. Ensiklopedi Hadist**
 * Status kesahihan (Shahih, Hasan, dll).
 * Teks Arab, Terjemahan, dan Syarah (Penjelasan).
 * Pelajaran dan faedah di setiap hadist.
 * Kategori tematik (Klasifikasi Utama & Sub-kategori).
 
-#### **d. Kalender & Jadwal Sholat**
+#### **4. Kalender & Jadwal Sholat**
 * **Dual Date System:** Penanggalan Masehi & Hijriyah.
 * **Penanda:** Puasa Sunnah & Hari Besar Islam.
 * **Jadwal Sholat:** Realtime GPS (Offline support).
 * **4 Tipe Jadwal:** Pagi, Siang & Sore, Malam, Qiyamul Lail.
 * **Asmaul Husna:** Teks, terjemahan, dan pencarian.
 
-### 🛍️ 3. UMKM & Donasi
+### c. UMKM & Donasi
 * **Direktori UMKM:** Daftar unit usaha lengkap (Deskripsi, Kontak, Lokasi). Pengguna bisa langsung menghubungi penjual.
 * **Donasi Terpercaya:** Informasi program sosial transparan dengan detail rekening bank pengurus yang jelas.
 
 ---
 
-## 🛠️ Tech Stack & API
+## D. Tech Stack & API
 
 Aplikasi ini dibangun menggunakan teknologi modern:
 
