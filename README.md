@@ -94,6 +94,18 @@ Aplikasi ini mengambil data islami dari sumber berikut:
 * `hadeeth.com` & `https://hadeethenc.com/` (Ensiklopedia Hadist)
 * `aladhan.com` (Jadwal Sholat & Kalender)
 
+**Frontend & Language:**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+
+**Backend & Database:**
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+**External APIs:**
+![Quran.com](https://img.shields.io/badge/API-Quran.com-2CA5E0?style=flat&logo=book&logoColor=white)
+![Hadeeth](https://img.shields.io/badge/API-Hadeeth-00BFA5?style=flat)
+![Aladhan](https://img.shields.io/badge/API-Aladhan-4CAF50?style=flat)
 ---
 
 ## 📸 Preview
