@@ -6,15 +6,15 @@
 
 > **⚠️ PERINGATAN KERAHASIAAN**
 >
-> Repositori ini berisi kode sumber aplikasi **Aisyiyah Smartlife**. Dilarang keras menyalin, mendistribusikan, atau mempublikasikan kode ini tanpa izin dari pengelola proyek.
+> Repositori ini hanya berisi aplikasi **Aisyiyah Smartlife**, dikarenakan project app ini bersifat private sehingga source code tidak diperuntukkan untuk publik.
 
 ---
 
 ## 📱 Tentang Aisyiyah Smartlife
 
-**Aisyiyah Smartlife** adalah aplikasi *mobile* berbasis Flutter yang dirancang untuk mendukung ekosistem digital warga Aisyiyah. Aplikasi ini **hadir untuk semua tipe pengguna**, menyediakan fitur akses Tamu (Guest) untuk publik dan Login khusus untuk anggota terdaftar.
+**Aisyiyah Smartlife** adalah aplikasi *mobile* berbasis Flutter yang dirancang untuk mendukung ekosistem digital para anggota Aisyiyah. Aplikasi ini **hadir untuk semua tipe pengguna**, menyediakan fitur akses Tamu (Guest) untuk publik dan Login khusus untuk anggota yang telah terdaftar emailnya dikantor PD Aisyiyah Pamekasan.
 
-Tujuan utama aplikasi ini adalah mempermudah manajemen kegiatan, transparansi organisasi dari tingkat Ranting hingga Wilayah, serta menyediakan fitur ibadah harian yang lengkap.
+Tujuan utama aplikasi ini adalah mempermudah manajemen kegiatan,donasi,umkm, dan transparansi organisasi dari tingkat Ranting hingga Wilayah, serta menyediakan fitur ibadah harian yang lengkap.
 
 ---
 
@@ -28,8 +28,8 @@ Aplikasi ini memiliki 6 tipe pengguna dengan hierarki dan hak akses yang berbeda
 | **2. Daerah** | • Kelola kegiatan tingkat Daerah<br>• Monitoring aktivitas & total Cabang/Ranting<br>• Kirim notifikasi ke bawahan<br>• Export rekap kegiatan ke Excel<br>• Kelola Donasi tingkat Daerah |
 | **3. Cabang** | • Kelola kegiatan tingkat Cabang<br>• Monitoring aktivitas & total Ranting<br>• Kirim notifikasi ke bawahan<br>• Export rekap kegiatan ke Excel<br>• Kelola Donasi tingkat Cabang<br>• **Kelola UMKM tingkat Cabang** |
 | **4. Ranting** | • Kelola kegiatan tingkat Ranting<br>• Monitoring aktivitas bawahan<br>• Kirim notifikasi ke bawahan<br>• Export rekap kegiatan ke Excel<br>• Kelola Donasi tingkat Ranting<br>• **Kelola UMKM tingkat Ranting** |
-| **5. Anggota** | • Melihat kegiatan, UMKM, dan Donasi<br>• Mengakses seluruh layanan tersedia sesuai lokasi terdaftar |
-| **6. Tamu** | • Akses fitur publik terbatas (Non-Login) |
+| **5. Anggota** | • Melihat kegiatan, myquran, UMKM, dan melakukan Donasi<br>• Mengakses seluruh layanan tersedia sesuai lokasi terdaftar |
+| **6. Tamu** | • Akses fitur My Quran |
 
 ---
 
@@ -41,10 +41,10 @@ Fitur transparansi agenda dari tingkat Ranting hingga Wilayah.
 * **Filter Cerdas:** Filter kegiatan sesuai tingkatan dan cakupan wilayah.
 * **Custom Alarm:** Pengingat kegiatan yang waktunya dapat disesuaikan pengguna.
 * **Integrasi Peta:** Lokasi kegiatan terhubung langsung dengan Google Maps.
-* **Export Data:** Fitur unduh rekap kegiatan ke Excel (khusus Role pengurus).
+* **Export Data:** Fitur unduh rekap kegiatan ke Excel (khusus Role tertentu).
 
 ### 📖 2. My Quran & Fitur Islami
-Pendamping ibadah harian yang lengkap dan akurat.
+Pendamping ibadah harian yang lengkap.
 
 #### **a. Baca Quran**
 * Teks dan audio kata per kata (word-by-word).
@@ -87,7 +87,7 @@ Aplikasi ini dibangun menggunakan teknologi modern:
 * **Backend:** [Supabase](https://supabase.com/) & [Firebase](https://firebase.google.com/)
 
 ### **3rd Party APIs**
-Aplikasi ini mengambil data islami dari sumber terpercaya:
+Aplikasi ini mengambil data islami dari sumber berikut:
 * `quran.com` (Data Al-Quran)
 * `hadeeth.com` & `https://hadeethenc.com/` (Ensiklopedia Hadist)
 * `aladhan.com` (Jadwal Sholat & Kalender)
@@ -112,29 +112,6 @@ Dokumentasi pertemuan dan uji coba aplikasi:
 | Manajemen UMKM | Rekap & Admin |
 | :---: | :---: |
 | ![Testing 4](Dokumentasi/test4.jpg) | ![Testing 5](Dokumentasi/test5.png) |
-
----
-
-## 🚀 Cara Menjalankan Project
-
-1.  **Clone Repository**
-    ```bash
-    git clone [https://github.com/username/aisyiyah-smartlife.git](https://github.com/username/aisyiyah-smartlife.git)
-    cd aisyiyah-smartlife
-    ```
-
-2.  **Install Dependencies**
-    ```bash
-    flutter pub get
-    ```
-
-3.  **Setup Environment**
-    Buat file `.env` dan isi konfigurasi Supabase/Firebase serta API Key yang diperlukan.
-
-4.  **Run App**
-    ```bash
-    flutter run
-    ```
 
 ---
 
