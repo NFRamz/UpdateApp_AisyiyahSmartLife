@@ -37,9 +37,11 @@ Aplikasi ini memiliki 6 tipe pengguna dengan hierarki dan hak akses yang berbeda
 
 ### a. Manajemen Jadwal Kegiatan
 Fitur transparansi agenda dari tingkat Ranting hingga Wilayah.
-* **Hierarki Monitoring:** Memantau kegiatan bawahan atau atasan untuk transparansi yang lebih baik.
+* **Hierarki Monitoring yang tersinkonisasi:** Memantau kegiatan bawahan atau atasan untuk transparansi yang lebih baik.
+* **Hierarki Notifikasi:** Terima Notifikasi kegiatan terbaru berdasarkan tingkatan dan cakupan lokasi para pengguna.
 * **Filter Cerdas:** Filter kegiatan sesuai tingkatan dan cakupan wilayah.
 * **Custom Alarm:** Pengingat kegiatan yang waktunya dapat disesuaikan pengguna.
+* **Deskripsi Detail:** Menampilkan detail terkait kegiatan yang dilakukan.
 * **Integrasi Peta:** Lokasi kegiatan terhubung langsung dengan Google Maps.
 * **Export Data:** Fitur unduh rekap kegiatan ke Excel (khusus Role tertentu).
 
