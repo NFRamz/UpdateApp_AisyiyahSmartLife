@@ -2,33 +2,25 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Aisyiyah SmartLife Updates</title>
-
+    
     <item>
       <title>Versi 1.0.2</title>
-
-      <description><![CDATA[
-🎉 Fitur Baru di My Quran
-
-📖 Simpan Terakhir Dibaca & Bookmark ke Cloud
-Nikmati pengalaman membaca Al-Qur'an tanpa khawatir kehilangan progres. Posisi ayat terakhir yang dibaca dan seluruh bookmark akan tersimpan secara aman di cloud, sehingga tetap tersedia meskipun Anda menghapus aplikasi, berganti perangkat, atau melakukan login kembali.
-
-🤖 Quran Semantic AI
-Temukan ayat Al-Qur'an dengan cara yang lebih cerdas. Teknologi Quran Semantic AI memahami makna, konteks, dan maksud pertanyaan Anda, bukan sekadar mencocokkan kata kunci. Hasil pencarian menjadi lebih akurat, relevan, dan membantu Anda menemukan ayat yang sesuai dengan kebutuhan.
-
-🧭 Cari Kiblat
-Temukan arah kiblat dengan cepat dan akurat di mana pun Anda berada. Fitur ini membantu Anda menentukan posisi kiblat saat akan melaksanakan salat, sehingga ibadah dapat dilakukan dengan lebih tenang dan tepat.
-
-🤲 Kumpulan Doa & Dzikir
-Akses koleksi doa dan dzikir Islam yang lengkap dalam satu tempat. Dilengkapi dengan sistem filter berdasarkan kategori dan tag, sehingga Anda dapat menemukan doa untuk berbagai kebutuhan dan momen kehidupan dengan lebih mudah dan cepat.
-      ]]></description>
-
+      
+      <description>
+        Fitur baru:
+        - Tampilan dashboard baru
+        - Perbaikan bug login1
+      </description>
+      
       <pubDate>Wed, 28 Jan 2026 15:00:00 +0000</pubDate>
-
-      <enclosure
-          url="https://github.com/NFRamz/UpdateApp_AisyiyahSmartLife/releases/download/1.0.2/app-release_1.0.2.apk"
-          sparkle:version="1.0.2"
-          sparkle:os="android" />
+      
+      <enclosure url="https://github.com/NFRamz/UpdateApp_AisyiyahSmartLife/releases/download/1.0.2/app-release_1.0.2.apk"
+                 sparkle:version="1.0.2"
+                 sparkle:os="android" />
     </item>
 
   </channel>
 </rss>
+
+
+terapkan deskripsi kedalam kode 
