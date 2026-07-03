@@ -1,23 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>Aisyiyah SmartLife Updates</title>
-    
-    <item>
-      <title>Versi 1.0.3</title>
-      
-      <description>
-        Fitur baru:
-        - Tampilan dashboard baru
-        - Perbaikan bug login1
-      </description>
-      
-      <pubDate>Wed, 28 Jan 2026 15:00:00 +0000</pubDate>
-      
-      <enclosure url="https://github.com/NFRamz/UpdateApp_AisyiyahSmartLife/releases/download/1.0.3/app-release.apk"
-                 sparkle:version="1.0.3"
-                 sparkle:os="android" />
-    </item>
-
-  </channel>
-</rss>
+<item>
+   <title>Versi 1.0.3</title>
+   <sparkle:releaseNotesLink>
+       Fitur Baru:
+       - Implementasi LockForGuest
+       - Perubahan alur pendaftaran
+   </sparkle:releaseNotesLink>
+   <enclosure 
+       url="..." 
+       sparkle:version="1.0.3" 
+       os="android" />
+</item>
