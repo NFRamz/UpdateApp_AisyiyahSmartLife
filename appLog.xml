@@ -15,7 +15,7 @@
       <pubDate>Wed, 28 Jan 2026 15:00:00 +0000</pubDate>
       
       <enclosure url="https://github.com/NFRamz/UpdateApp_AisyiyahSmartLife/releases/download/1.0.2/app-release_1.0.2.apk"
-                 sparkle:version="1.0.2"
+                 sparkle:version="1.0.3"
                  sparkle:os="android" />
     </item>
 
